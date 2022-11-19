@@ -1,5 +1,5 @@
 # *.C-Sharp linguist-detectable=true
 *.js linguist-detectable=false
-*.HTML linguist-detectable=false
 *.xml linguist-detectable=false
 *.css linguist-detectable=false
+*.html linguist-detectable=false
