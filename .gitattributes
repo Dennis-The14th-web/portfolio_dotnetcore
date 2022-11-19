@@ -1,6 +1,6 @@
 *.cs linguist-vendored=C#
-*.cs linguist-detectable=C#
-*.js linguist-detectable=C#
-*.html linguist-detectable=C#
-*.xml linguist-detectable=C#
-*.css linguist-detectable=C#
+*.cs linguist-vendored=C#
+*.js linguist-vendored=C#
+*.html linguist-vendored=C#
+*.xml linguist-vendored=C#
+*.css linguist-vendored=C#
