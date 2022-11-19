@@ -1,12 +1,7 @@
-* text=auto
-
-# geosite database
-*.dat binary
-
-// *.cs linguist-vendored=true
-// *.cs linguist-detectable=true
-// * linguist-vendored
-// *.js linguist-detectable=false
-// *.html linguist-detectable=false
-// *.xml linguist-detectable=false
-// *.css linguist-detectable=false
+*.cs linguist-vendored=C#
+*.cs linguist-detectable=C#
+* linguist-vendored
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
+*.css linguist-detectable=false
