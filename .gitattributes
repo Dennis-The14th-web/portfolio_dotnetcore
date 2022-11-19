@@ -1,4 +1,4 @@
-# *.C-Sharp linguist-detectable=true
+*.cs linguist-detectable=true
 *.js linguist-detectable=false
 *.xml linguist-detectable=false
 *.css linguist-detectable=false
